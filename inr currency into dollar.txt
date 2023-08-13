@@ -10,6 +10,7 @@ try (Scanner obj = new Scanner	(System.in)) {
 }
 double dollars=rupees/82.9567;
 System.out.println(dollars +" dollars");
+//conversion of indian rupees into Usd
  
 
 
